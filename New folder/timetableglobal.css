@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-recursive: Recursive;
+    --font-poppins: Poppins;
+    --font-poor-richard: "Poor Richard";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-tan: #d5baaa;
+    --color-white: #fff;
+  }
+  

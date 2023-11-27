@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-dancing-script: "Dancing Script";
+    --font-poppins: Poppins;
+    --font-radley: Radley;
+  
+    /* font sizes */
+    --font-size-13xl-3: 32.3px;
+  
+    /* Colors */
+    --color-black: #000;
+  }
+  
